@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Duncan</h1>
 
 # Who Am I: 
-I'm a fourth-year computer science student at Western University, currently studying Cloud, AI, and Machine Learning!
+I'm a fourth-year computer science student at Western University, currently studying Cloud, AI, and Machine Learning. With interests in finance, music, and calisthenics!
 
 ## What I am working on?
-- Studying AWS to go for certification
-- Developing SpendSense, a financial tracker to help manage expenses.
+- Studying AWS to recieve Cloud Practitioner Certification
+- Developing PocketTrack, a financial tracker to help manage expenses and make better financial decisions.
 - Learning AI and ML
 
 Here is my [portfolio!](https://dfinlayson.vercel.app/)
